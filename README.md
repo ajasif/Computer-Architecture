@@ -1,5 +1,4 @@
 # Computer-Architecture
-Projects from TCSS 372 Computer Architecture
 
 CPU Simulator 
 - Loads MIPS assembly code, translates it to MIPS machine code (32-bit)
